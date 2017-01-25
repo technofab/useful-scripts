@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## useful-scripts
+A bunch of useful scripts for managing linux and windows system.
 
 You can use the [editor on GitHub](https://github.com/technofab/useful-scripts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
