@@ -1,17 +1,18 @@
 #!/bin/bash
 
+##########################################################################################
 # 
 # Based on https://wiki.archlinux.org/index.php/Bash/Prompt_customization
 #
-# Example of use: put this file in /usr/bin and chmod 755 
+# Downloaded from: https://github.com/technofab/useful-scripts
 #
 # #!/bin/bash
-# source /usr/bin/colors.sh
+# source /usr/bin/colors
 # echo -e "$Red *** $Z ATTENTION: the folder $BGreen documents $Z will be erased"
 #
+##########################################################################################
 
 # Color definitions
-
 # Reset
 export Z='\e[0m'               # Text Reset
 
