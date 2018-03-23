@@ -8,7 +8,7 @@ A bunch of useful scripts for managing linux and windows systems.
 ## How to catch them 
 Simply at your shell you can clone the project using the git command. Go in any directory of your choice, also if I suggest the home root directory, and next type the command **git clone https://github.com/technofab/useful-scripts.git** 
 
-Next you found a directory named useful-scrips, and entering in it please make executable the setup command, and next run it. For example: **chmod 755 setup; ./setup**
+Next you found a directory named useful-scrips, and entering in it please make executable the setup command, and next run it. For example: **chmod 755 setup; ./setup** or **powershell.exe .\script.ps1**
 
 It make executable all scripts and copy them in the /usr/bin directory. 
 
